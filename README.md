@@ -43,7 +43,6 @@
     <img title="REST Assured" src="https://img.shields.io/badge/-REST%20Assured-7e06ff?style=for-the-badge">
     <img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">
     <img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">
-    <img title="Spring" src="https://img.shields.io/badge/-Spring%20IDEA-B2D746?style=for-the-badge">
     <img title="Hibernate" src="https://img.shields.io/badge/-Hibernate-EA2C6B?logo=java&style=for-the-badge">
     <img title="Spring" src="https://img.shields.io/badge/-Spring%20Framework-B2D746?style=for-the-badge">
     <img title="Hibernate" src="https://img.shields.io/badge/-Hibernate-EA2C6B?logo=java&style=for-the-badge">

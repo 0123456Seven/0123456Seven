@@ -63,7 +63,7 @@
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты
 
 <p align="center">
-    <a href="https://t.me/0123456Seven"><img width=4% title="Telegram" src="attachments/logo/telegram.png"></a>&nbsp;
+    <a href="https://t.me/Seven654321"><img width=4% title="Telegram" src="attachments/logo/telegram.png"></a>&nbsp;
 </p>
 
 <br/>

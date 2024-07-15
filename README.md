@@ -8,8 +8,7 @@
 
 <p align="left">
 Меня зовут Марсель, мне 22 года. Я имею 1 год и 6 месяцев опыта в автоматизации тестирования UI/API на Java. В свободное время изучаю новые подходы и инструменты в автоматизации на YouTube и Хабре. Люблю Stepik там много интересных курсов по автоматизации и Java. Также был опыт разработки на бэкенде.
-
-В данное время работаю в 
+    
 </p>
 
 <br/>
@@ -45,6 +44,9 @@
     <img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">
     <img title="Spring" src="https://img.shields.io/badge/-Spring%20IDEA-B2D746?style=for-the-badge">
     <img title="Hibernate" src="https://img.shields.io/badge/-Hibernate-EA2C6B?logo=java&style=for-the-badge">
+    <img title="Spring" src="https://img.shields.io/badge/-Spring%20Framework-B2D746?style=for-the-badge">
+    <img title="Hibernate" src="https://img.shields.io/badge/-Hibernate-EA2C6B?logo=java&style=for-the-badge">
+    <img title="Apache Kafka" src="https://img.shields.io/badge/-Apache%20Kafka-1C90ED?logo=java&style=for-the-badge">
 </p>
 
 <br/>

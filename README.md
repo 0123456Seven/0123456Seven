@@ -31,6 +31,7 @@
 <p align="center">
     <img title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-B2D746?style=for-the-badge">
     <img title="Java" src="https://img.shields.io/badge/-Java-EA2C6B?logo=java&style=for-the-badge">
+    <img title="Selenium" src="https://img.shields.io/badge/-Selenium-1C90ED?logo=java&style=for-the-badge">
     <img title="Selenide" src="https://img.shields.io/badge/-Selenide-ffc933?style=for-the-badge">
     <img title="Selenoid" src="https://img.shields.io/badge/-Selenoid-7e06ff?style=for-the-badge">
     <img title="Allure Report" src="https://img.shields.io/badge/-Allure%20Report-B2D746?style=for-the-badge">

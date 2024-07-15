@@ -1,6 +1,4 @@
-<p align="center">
-    <img title="Hi!" src="attachments/gif/header.gif">
-</p>
+
 
 # <img width="5%" title="About me" src="attachments/images/chat.png"> Немного о себе
 

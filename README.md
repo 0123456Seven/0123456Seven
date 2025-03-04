@@ -53,10 +53,10 @@
 ## <img width="4%" title="GitHub statistics" src="attachments/images/stats.png"> Статистика GitHub
 
 <p align="center">
-    <a href="https://github.com/penolegrus?tab=repositories&sort=stargazers"><img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0123456Seven&show_icons=true&theme=radical"></a>&nbsp;
-    <a href="https://github.com/penolegrus?tab=repositories&sort=stargazers"><img width=42.5% title="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0123456Seven&theme=buefy&hide=freemarker"></a>&nbsp;
+    <a href=""><img width=45% title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0123456Seven&show_icons=true&theme=radical"></a>&nbsp;
+    <a href=""><img width=42.5% title="Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0123456Seven&theme=buefy&hide=freemarker"></a>&nbsp;
     <img width="30%" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif">
-    <a href="https://github.com/penolegrus?tab=repositories&sort=stargazers"><img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=0123456Seven&show_icons=true&theme=buefy"></a>
+    <a href=""><img width=57% title="Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=0123456Seven&show_icons=true&theme=buefy"></a>
 </p>
 
 ## <img width="4%" title="Contacts" src="attachments/images/contacts.png"> Контакты

@@ -4,7 +4,7 @@
 
 <img align="right" width="35%" src="attachments/gif/animation.gif">
 
-### _Я — QA Engineer_ <img width="3%" src="attachments/images/bug.png">
+### _Я — AQA Engineer_ <img width="3%" src="attachments/images/bug.png">
 
 <p align="left">
 Меня зовут Марсель, мне 22 года. Я имею 2 года и 1 месяц опыта в автоматизации тестирования UI/API на Java. В свободное время изучаю новые подходы и инструменты в автоматизации на YouTube и Хабре. Люблю Stepik там много интересных курсов по автоматизации и Java. Также был опыт разработки на бэкенде.

@@ -17,7 +17,6 @@
 
 <p align="center">
     <a href="https://github.com/0123456Seven/ProjectManagement"><img width=45% title="Интеграционные тесты для кафка приложений с использованием Docker контейнеров" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=0123456Seven&repo=ProjectManagement&show_owner=true&theme=buefy"></a>
-    <a href="https://github.com/0123456Seven/TimeManagementWebSite"><img width=45% title="Тесты WebSocket приложения" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=0123456Seven&repo=TimeManagementWebSite&show_owner=true&theme=buefy"></a>
     <a href="https://github.com/0123456Seven/UGNTUScheduleTelegramBot"><img width=45% title="UI и API автотесты на различные веб приложения" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=0123456Seven&repo=UGNTUScheduleTelegramBot&show_owner=true&theme=buefy"></a>
     
 </p>
